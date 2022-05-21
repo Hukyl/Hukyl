@@ -1,4 +1,8 @@
-### Hi there 👋
+I'm Andrey Shalaev, a software developer from Kiev, Ukraine. I'm also a dancer, chemist, play the guitar and code a lot.
+
+
+I love writing clean code in Python and JavaScript. Currently I'm learning more about these languages as well as C and Kotlin.
+I'm friendly and hard-working, and fond of working on and completing hard but interesing projects.
 
 <!--
 **Hukyl/Hukyl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
