@@ -1,7 +1,7 @@
 I'm Andrii Shalaiev, a software developer from Kiev, Ukraine. I'm also a dancer, chemist, play the guitar and apparently code sometimes.
 
 
-I love writing clean code in Python and JavaScript. Currently I'm learning more about these languages as well as C and Kotlin.
+I mostly code in Python, Golang, C, JavaScript. Currently I'm learning more about these languages as well as C++ and Java.
 I'm friendly and hard-working, and fond of working on and completing hard but interesing projects.
 
 <!--
