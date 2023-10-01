@@ -1,4 +1,4 @@
-I'm Andrii Shalaiev, a software developer from Kiev, Ukraine. I'm also a dancer, chemist, play the guitar and apparently code sometimes.
+I'm Andrii Shalaiev, a software developer from Kiev, Ukraine.
 
 
 I mostly code in Python, Golang, C, JavaScript. Currently I'm learning more about these languages as well as C++ and Java.
